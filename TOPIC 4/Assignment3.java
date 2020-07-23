@@ -1,7 +1,7 @@
 import java.util.*;
 public class Assignment3 {
 	public static void main(String[] args) {
-		/*Creating a list of string objects*/
+
 		List<String> strings = Arrays.asList("alexa", "", "pogo", "mozato", "abcd","", "jklnop");
 		System.out.println(strings);
 		int c1=0,c2=0;
